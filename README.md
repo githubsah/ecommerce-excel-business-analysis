@@ -39,7 +39,7 @@ The goal is to understand how revenue converts into profit, identify profit leak
 ---
 
 ## Project Structure
-
+txt
 Project 4 - E-Commerce Sales & Profitability Analysis (Excel)
 
 ├── Raw_Data
