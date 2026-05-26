@@ -40,7 +40,6 @@ The goal is to understand how revenue converts into profit, identify profit leak
 
 ## Project Structure
 
-```txt
 Project 4 - E-Commerce Sales & Profitability Analysis (Excel)
 
 ├── Raw_Data
@@ -49,9 +48,9 @@ Project 4 - E-Commerce Sales & Profitability Analysis (Excel)
 │   └── Ecommerce_Excel_Analysis.xlsx
 │
 ├── Documentation
-│   ├── Data Cleaning and Preparation.docx
-│   ├── Formula_Analysis_and_Business_Insights.docx
-│   ├── Pivot_Analysis_and_Business_Insights.docx
-│   └── Dashboard_Storytelling.docx
+│   ├── Data Cleaning and Preparation.pdf
+│   ├── Formula_Analysis_and_Business_Insights.pdf
+│   ├── Pivot_Analysis_and_Business_Insights.pdf
+│   └── Dashboard_Storytelling_and_Business_Recommendations.pdf
 │
 └── README.md
