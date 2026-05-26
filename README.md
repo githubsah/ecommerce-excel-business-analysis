@@ -6,7 +6,7 @@ This project analyzes e-commerce sales, profitability, customer behavior, discou
 The goal is to understand how revenue converts into profit, identify profit leakage areas, and generate business recommendations through formulas, pivot analysis, and dashboard storytelling.
 
 ---
-
+ 
 ## Business Questions Answered
 - What are the total sales, profit, orders, and average order value?
 - Which regions generate the highest sales?
