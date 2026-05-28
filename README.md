@@ -1,44 +1,61 @@
-# E-Commerce Sales & Profitability Analysis (Excel)
-
-## Project Overview
-This project analyzes e-commerce sales, profitability, customer behavior, discount impact, and operational performance using Microsoft Excel.
-
-The goal is to understand how revenue converts into profit, identify profit leakage areas, and generate business recommendations through formulas, pivot analysis, and dashboard storytelling.
-
----
- 
-## Business Questions Answered
-- What are the total sales, profit, orders, and average order value?
-- Which regions generate the highest sales?
-- Which product categories are most profitable?
-- How do sales and profit change over time?
-- How do discounts affect profitability?
-- Which customers contribute the highest revenue?
-- Which customer segments drive business performance?
-- How does shipping mode impact sales?
+# 📊 E-Commerce Sales & Profitability Analysis (Excel)
 
 ---
 
-## Skills & Tools Used
-- Microsoft Excel  
-- Excel Formulas (`SUM`, `SUMIF`, `SUMIFS`, `COUNTIF`, `COUNTIFS`, `AVERAGEIF`, `IF`, `INDEX-MATCH`, `VLOOKUP`)  
-- Pivot Tables  
-- Dashboard Design & KPI Reporting  
-- Business Analysis & Storytelling
+## 📌 Project Overview
+
+This project analyzes **e-commerce sales, profitability, customer behavior, discount impact, and operational performance** using **Microsoft Excel**.
+
+The objective was to understand **how revenue converts into profit, identify profit leakage areas, and generate business recommendations** through formulas, Pivot Table analysis, dashboards, and business storytelling.
 
 ---
 
-## Dashboard Highlights
-- Strong sales performance with fluctuating profitability  
-- Technology category generated the highest profit  
-- Furniture showed weak margin performance  
-- Heavy discounting negatively impacted profitability  
-- Consumer segment contributed the highest revenue  
-- Standard shipping handled most sales volume
+## ❓ Business Questions Answered
+
+* What are the total sales, profit, orders, and average order value (AOV)?
+* Which regions generate the highest sales?
+* Which product categories are the most profitable?
+* How do sales and profit evolve over time?
+* How do discounts affect profitability?
+* Which customers contribute the highest revenue?
+* Which customer segments drive business performance?
+* How does shipping mode impact sales?
 
 ---
 
-## Project Structure
+## 📈 Key Insights
+
+* Strong sales performance existed alongside fluctuating profitability
+* The **Technology** category generated the highest profit contribution
+* **Furniture** showed weaker margin performance compared to other categories
+* Heavy discounting negatively affected profitability and margin performance
+* The **Consumer** segment generated the highest revenue contribution
+* **Standard Shipping** handled the majority of sales volume
+
+---
+
+## 🛠 Tools & Skills Used
+
+### Microsoft Excel
+
+**Formulas & Functions**
+
+* `SUM`, `SUMIF`, `SUMIFS`
+* `COUNTIF`, `COUNTIFS`
+* `AVERAGEIF`, `IF`
+* `INDEX-MATCH`, `VLOOKUP`
+
+**Concepts & Techniques**
+
+* Data Cleaning & Preparation
+* Pivot Table Analysis
+* KPI Reporting & Dashboard Design
+* Trend Analysis & Business Interpretation
+* Data Storytelling & Business Recommendations
+
+---
+
+## 🗂 Project Structure
 
 ```txt
 Project 4 - E-Commerce Sales & Profitability Analysis (Excel)
@@ -56,3 +73,16 @@ Project 4 - E-Commerce Sales & Profitability Analysis (Excel)
 │
 └── README.md
 ```
+
+---
+
+## ✅ Outcome
+
+This project demonstrates the ability to:
+
+* Perform business analysis using Microsoft Excel
+* Translate raw business questions into structured analysis
+* Apply formulas, Pivot Tables, and dashboards for decision support
+* Identify profitability trends and operational inefficiencies
+* Convert analytical findings into business recommendations
+* Communicate insights through dashboard storytelling
