@@ -6,7 +6,9 @@
 
 This project analyzes **e-commerce sales, profitability, customer behavior, discount impact, and operational performance** using **Microsoft Excel**.
 
-The objective was to understand **how revenue converts into profit, identify profit leakage areas, and generate business recommendations** through formulas, Pivot Table analysis, dashboards, and business storytelling.
+The analysis covered **Rs. 23.3L in sales, Rs. 2.9L in profit, 10,194 orders, and 296 returns**, with the objective of understanding how revenue translated into profitability and identifying opportunities for business improvement.
+
+Using Excel formulas, Pivot Tables, dashboards, and business storytelling techniques, the project explores profitability trends, customer performance, discount impact, and operational drivers to generate actionable business recommendations.
 
 ---
 
